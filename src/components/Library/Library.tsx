@@ -24,8 +24,7 @@ const useStyles = makeStyles({
     },
 });
 
-
-export const Authors = () => {
+export const Library = () => {
 
     const classes = useStyles();
 
@@ -34,7 +33,7 @@ export const Authors = () => {
             <Navbar />
             <div className={`${classes.background}`}>
                 <div className={classes.title}>
-                    <h2>Authors</h2>
+                    <h2>Library</h2>
                 </div>
             </div>
 

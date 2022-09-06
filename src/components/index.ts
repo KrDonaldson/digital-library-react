@@ -1,1 +1,5 @@
 export * from './Home'
+export * from './Books'
+export * from './Authors'
+export * from './Library'
+export * from './AboutUs'
