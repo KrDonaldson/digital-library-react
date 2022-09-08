@@ -46,7 +46,7 @@ const classes = useStyles();
             <div className={classes.main_text}>
                 <h1>{ props.title }</h1>
                 <Button>
-                    <Link to='/Books' className={classes.button_text}>Take me to My Books</Link>
+                    <Link to='/Library' className={classes.button_text}>Take me to the Books</Link>
                 </Button>
             </div>
             </div>
